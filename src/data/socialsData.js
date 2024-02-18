@@ -10,6 +10,5 @@ export const socialsData = {
     medium: 'https://medium.com/@',
     stackOverflow: '',
     gitlab: '',
-    youtube: '',
-    pitch: 'https://diversitytech.com.ng/wp-content/uploads/2024/02/My-Elevator-Pitch.mp4'
+    youtube: ''
 }
