@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+vimport React, { useContext } from 'react'
 import './Footer.css'
 import { ThemeContext } from '../../contexts/ThemeContext'
 import { headerData } from '../../data/headerData'
@@ -22,7 +22,7 @@ function Footer() {
                 <span style={{color: theme.primary, margin: '0 0.5rem -1rem 0.5rem'}}>
                     ❤
                 </span>
-                 by {shortname(headerData.name)} <a href="#"> Version 1.0</a>
+                 by {shortname(headerData.name)} <a href="https://diversitytech.com.ng/wp-content/uploads/2024/02/My-Elevator-Pitch.mp4"> Elevator Pitch</a>
             </p>
 
         </div>
